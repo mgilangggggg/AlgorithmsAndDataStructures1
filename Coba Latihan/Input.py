@@ -1,0 +1,8 @@
+a = input()
+print(a)
+b = input("Isikan Nama Anda : ")
+print(b)
+c = input("Masukan Angka : ")
+print(c)
+d = input("Masukan Rumus : ")
+print(d)
